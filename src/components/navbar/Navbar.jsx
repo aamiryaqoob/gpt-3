@@ -3,7 +3,8 @@ import {RiMenu3Lin, RiCloseLin} from 'react-icons/ri';
 import './navbar.css';
 import logo from '../../assests/logo.svg';
 
-//BEM --> Block Element Modifier
+//BEM --> Block Element 
+//NavBar
 
 function Navbar() {
   return (
